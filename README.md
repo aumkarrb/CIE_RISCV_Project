@@ -12,15 +12,10 @@ The team of 8 students will develop a complete system, starting with environment
 The project aims to achieve the following: 
 
  1. Environment Setup and Learning: Install Vivado, RISC-V toolchain, and master RISC-V ISA (RV32I), FPGA design flow, and PicoRV32 architecture.
-	
  2. Custom Instruction Accelerator: Implement MADD, VDOT, and MDIST instructions to accelerate KNN distance calculations.
-	
  3. ML Application: Develop a KNN classifier for 8x8 image recognition, quantifying hardware vs. software execution speedup.
-	
  4. System Enhancements: Integrate 3-stage pipelining, DMA, UART, and DDR3 memory, using onboard switches, buttons, and LEDs for interaction.
-    
  5. Optimization and Verification: Optimize timing, power, and FPGA resource usage; verify functionality through simulation and hardware prototyping.
-    
  6. Demonstration and Documentation: Showcase speedup in a live demo (UART/LED output) and deliver comprehensive reports and presentations.
 
 
