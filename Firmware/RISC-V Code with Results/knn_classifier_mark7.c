@@ -11,7 +11,7 @@
 typedef int32_t fixed16_16_t;
 #define F_LIT(f) ((fixed16_16_t)((f) * (1 << FIXED_POINT_SHIFT)))
 
-// ---------- Ripes Console Output ----------
+// ---------- Console Output ----------
 void putchar(char c) {
     asm volatile (
         "mv a0, %0\n"
