@@ -18,4 +18,19 @@ The project aims to achieve the following:
  5. Optimization and Verification: Optimize timing, power, and FPGA resource usage; verify functionality through simulation and hardware prototyping.
  6. Demonstration and Documentation: Showcase speedup in a live demo (UART/LED output) and deliver comprehensive reports and presentations.
 
+# Contributors
+
+1. Aumkar Ranjan Behura 
+2. Lasya Hedge
+3. Mallikarjun Yeshlur 
+4. Omkar Sastry N R
+5. Rakesh Patil
+6. Shashwath R Kedilaya
+7. Shubhang S 
+8. Tanish A Shet
+
+# Industrial Mentors 
+1. Prof. Kuldeep Simha 
+2. Prof. Radhakrishnan "Rad" Mahalikudi
+
 
