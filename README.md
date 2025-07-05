@@ -33,4 +33,9 @@ The project aims to achieve the following:
 1. Prof. Kuldeep Simha 
 2. Prof. Radhakrishnan "Rad" Mahalikudi
 
+# Special Thanks to:- 
+1. Prof. Madhukar Narasimha 
+2. Prof. Sathya Prasad 
+3. Prof. Tarun R 
+
 
