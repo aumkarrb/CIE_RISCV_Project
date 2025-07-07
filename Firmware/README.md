@@ -6,3 +6,5 @@
 ## The KNN_full_complete.s is the complete working code for 10 train and 1 test image. I have explored the possible inaccuracy factors, when it comes to voting stage, here not all K-NN will have majority/ multiple labels, thereby leading to no prediction methodology. This is covered by FALLBACK that ensures such a case is handled by default chosing the nearest neighbour's label as the predicted label.
 
 ## mnist_dataset.s contains the .byte initialised memory values.
+
+## The actual KNN Assembly Implementation for the demonstration purposes works, but have not figured out if/where the labels predicted is being stored (exact memory location).
