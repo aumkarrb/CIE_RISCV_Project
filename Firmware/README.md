@@ -7,4 +7,9 @@
 
 ## mnist_dataset.s contains the .byte initialised memory values.
 
-## The actual KNN Assembly Implementation for the demonstration purposes works, but have not figured out if/where the labels predicted is being stored (exact memory location).
+
+- **Predicted Label** → Computed in `x8` + stored in register `x14`
+- **Votes Array** → Likely at `0x100022e6` (10 × 4-byte entries).
+- **Actual Labels** → Stored at `0x10002090` (10 bytes, one per test case).
+
+
