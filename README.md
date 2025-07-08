@@ -2,7 +2,7 @@
 RISC-V K-Nearest Neighbors Accelerator for Image Recognition on FPGA
 
 
-Introduction:
+# Introduction:
 
 The rapid growth of machine learning (ML) applications demands efficient hardware accelerators to meet performance and power constraints. Field-Programmable Gate Arrays (FPGAs) offer a flexible platform for implementing custom processors tailored to ML workloads. This 6-month final-year engineering project proposes the design, implementation, and verification of a RISC-V processor based on the PicoRV32 core, enhanced with custom instructions (MADD for matrix addition, VDOT for vector dot product, and MDIST for Euclidean distance) to accelerate a K-Nearest Neighbors (KNN) classifier for recognizing 8x8 grayscale images (e.g., MNIST digit subset). The project targets the Arty A7-100T FPGA (Xilinx XC7A100T-1CSG324C) using Vivado 2024.2 and leverages an existing PicoRV32 setup (Verilog RTL, testbench, and firmware).
 The team of 8 students will develop a complete system, starting with environment setup and RISC-V fundamentals, followed by RTL design, firmware development, pipelining, DMA, DDR3 interfacing, and optimization. Without external PMOD modules, the system will use onboard slide switches, buttons, LEDs, and UART (via USB) for input/output. The project will demonstrate a 5–10x execution speedup of the hardware-accelerated KNN classifier compared to a software-only implementation, showcasing results via UART and LEDs. This initiative will provide hands-on experience in VLSI design, RISC-V architecture, FPGA prototyping, and ML acceleration, preparing students for careers in embedded systems and hardware design.
