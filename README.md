@@ -39,6 +39,9 @@ The project aims to achieve the following:
 1. Prof. Kuldeep Simha 
 2. Prof. Radhakrishnan "Rad" Mahalikudi
 
+# Academic Mentors
+1. Prof. Sudeendra Kumar K
+
 # Special Thanks to:- 
 1. Prof. Madhukar Narasimha 
 2. Prof. Sathya Prasad 
