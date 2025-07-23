@@ -1,3 +1,7 @@
+<img width="587" height="192" alt="image" src="https://github.com/user-attachments/assets/aabdd860-26f7-4f30-b642-f26b1af02ce8" />
+
+
+
 # CIE Silicon RISC-V Project
 
 ### RISC-V K-Nearest Neighbors Accelerator for Image Recognition on FPGA 
