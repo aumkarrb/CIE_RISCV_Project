@@ -293,7 +293,7 @@ def main():
             print(f"  0x{a:08X} : {v1} vs {v2}")
         sys.exit(2)
     else:
-        print("RESULT                   : Files are identical ✅")
+        print("RESULT                   : Files are identical")
         sys.exit(0)
 
 
